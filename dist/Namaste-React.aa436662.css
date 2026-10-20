@@ -1,0 +1,48 @@
+.header {
+  border: 1px solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+.logo {
+  width: 150px;
+}
+
+.nav-items > ul {
+  font-size: 20px;
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  width: 100px;
+  padding: 20px;
+}
+
+.res-card {
+  background-color: #f5f1f1;
+  width: 210px;
+  margin: 20px;
+  padding: 5px;
+}
+
+.res-container {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.res-card:hover {
+  border: 1px solid #000;
+}
+
+.search {
+  margin: 20px;
+  display: flex;
+}
+
+.res-logo {
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+}
+/*# sourceMappingURL=Namaste-React.aa436662.css.map */
